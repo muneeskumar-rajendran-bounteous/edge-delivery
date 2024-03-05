@@ -3,7 +3,7 @@ Your project's description...
 
 ## Environments
 - Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Live: https://main--edge-delivery--muneeskumar-rajendran-bounteous.hlx.live/
 
 ## Installation
 
